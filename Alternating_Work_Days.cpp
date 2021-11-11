@@ -6,11 +6,11 @@ int main(){
     cin>>T;
     while(T--){
     cin>>A>>B>>P>>Q;
-    if(A%P==0 && Q%B==0 && A!=1)
+    if(A==P && Q%B==0)
     {
         cout<<"YES"<<endl;
     }
-    else 
+    else if(P<Q)
     cout<<"NO"<<endl;
 
     }
