@@ -29,6 +29,8 @@ Sample Output 1
 SAME PRICE
 DIESEL
 SAME PRICE
+
+
 Explanation
 Test case 1:
 
